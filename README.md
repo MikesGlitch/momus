@@ -11,6 +11,8 @@ Canvas drawing: https://konvajs.org/docs/sandbox/index.html
 
 HTML to canvas: https://html2canvas.hertzen.com 
 
+https://github.com/niklasvh/html2canvas
+
 Dom to jpeg - Seems to do the same as HTML to Canvas but is smaller: https://github.com/tsayen/dom-to-image
 
 Thoughts: Could convert the HTML to canvas and then draw on it, then export to JPEG or whatever.  Would probably be a large library if I did that.  Would be a big bundle.  
